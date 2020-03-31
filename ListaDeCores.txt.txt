@@ -5,3 +5,6 @@ Violeta
 Verde
 Cinza
 Vermelho
+Roxo
+Amarelo
+Pink
